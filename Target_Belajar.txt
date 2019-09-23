@@ -1,4 +1,4 @@
 Senin: Bootstrap,GIT
 Selasa:SIM
-Rabu: Kosong
 Kamis: GNS3
+Jumat: Basis Data(DML&DDL)
