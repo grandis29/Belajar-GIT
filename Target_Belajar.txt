@@ -2,3 +2,5 @@ Senin: Bootstrap,GIT
 Selasa:SIM
 Kamis: GNS3
 Jumat: Basis Data(DML&DDL)
+Sabtu: Teddy Tugas Kelompok UI
+Minggu: Teddy Tugas Kelompok Basis Data Lanjut
