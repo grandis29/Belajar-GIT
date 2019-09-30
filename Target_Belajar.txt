@@ -1,4 +1,5 @@
-Senin: Bootstrap,GIT
+Senin: GIT(Branch, Merge)
+Senin : Desain Antarmuka
 Selasa:SIM
 Rabu: Kosong
 Kamis: GNS3
