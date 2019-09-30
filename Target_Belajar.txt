@@ -3,3 +3,4 @@ Senin : Desain Antarmuka
 Selasa:SIM
 Rabu: Kosong
 Kamis: GNS3
+jumat : Basisdata lanjut
